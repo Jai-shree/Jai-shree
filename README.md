@@ -3,12 +3,11 @@
 Welcome to my GitHub profile! 
 
 ## 🔧 Technologies & Tools  
--**Languages**: C++, Python, C, SQL, JavaScript, TypeScript
--**Tools and Databases**: Git, SwaggerUI, MongoDB, MySQL, PostgreSQL
--**Platforms**: Windows, Linux
--**Frameworks**: NestJs, Express.js, React, TailwindCSS
--**Areas ofInterest**: Backend Development, Database Management System, Web Application Security 
-
+- **Languages**: Python, JavaScript, Java, C++  
+- **Web Development**: HTML, CSS, React, Node.js  
+- **Tools & Platforms**: Git, VS Code, Docker, AWS  
+- **Other Interests**: Machine Learning, Data Science, Automation
+  
 ## 📫 How to Reach Me  
 - **Email**: [22pc15@psgtech.ac.in](22pc15@psgtech.ac.in)  
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/jai-shree-k/)   
