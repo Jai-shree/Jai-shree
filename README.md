@@ -3,10 +3,11 @@
 Welcome to my GitHub profile! 
 
 ## 🔧 Technologies & Tools  
-- **Languages**: Python,TypeScript, JavaScript, Java, C++ 
-- **Web Development**: HTML, CSS, React, Node.js  
-- **Tools & Platforms**: Git, VS Code
-- **Other Interests**: Cybersecurity, Machine Learning  
+-**Languages**: C++, Python, C, SQL, JavaScript, TypeScript
+-**Tools and Databases**: Git, SwaggerUI, MongoDB, MySQL, PostgreSQL
+-**Platforms**: Windows, Linux
+-**Frameworks**: NestJs, Express.js, React, TailwindCSS
+-**Areas ofInterest**: Backend Development, Database Management System, Web Application Security 
 
 ## 📫 How to Reach Me  
 - **Email**: [22pc15@psgtech.ac.in](22pc15@psgtech.ac.in)  
