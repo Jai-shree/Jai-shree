@@ -9,8 +9,8 @@ Welcome to my GitHub profile!
 - **Other Interests**: Cybersecurity, Machine Learning  
 
 ## 📫 How to Reach Me  
-- **Email**: [your-email@example.com](22pc15@psgtech.ac.in)  
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/jai-shree-k/)   
+- **Email**: [22pc15@psgtech.ac.in](22pc15@psgtech.ac.in)  
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/jai-shree-k/)   
 
 ---  
 
