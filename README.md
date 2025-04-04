@@ -3,10 +3,10 @@
 Welcome to my GitHub profile! 
 
 ## 🔧 Technologies & Tools  
-- **Languages**: Python, JavaScript, Java, C++  
+- **Languages**: Python, TypeScript, JavaScript, Java, C++  
 - **Web Development**: HTML, CSS, React, Node.js  
-- **Tools & Platforms**: Git, VS Code, Docker, AWS  
-- **Other Interests**: Machine Learning, Data Science, Automation
+- **Tools & Platforms**: Git, VS Code
+- **Other Interests**: Machine Learning, Cybersecurity
   
 ## 📫 How to Reach Me  
 - **Email**: [22pc15@psgtech.ac.in](22pc15@psgtech.ac.in)  
