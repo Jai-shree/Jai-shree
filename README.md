@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, I'm Jai Shree! 👋  
 
-<!--
-**Jai-shree/Jai-shree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools  
+- **Languages**: Python,TypeScript, JavaScript, Java, C++ 
+- **Web Development**: HTML, CSS, React, Node.js  
+- **Tools & Platforms**: Git, VS Code
+- **Other Interests**: Cybersecurity, Machine Learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me  
+- **Email**: [your-email@example.com](22pc15@psgtech.ac.in)  
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/jai-shree-k/)   
+
+---  
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jai-shree&show_icons=true&theme=radical)](https://github.com/jai-shree)  
+
+⭐ Let’s connect and collaborate!  
